@@ -14,7 +14,7 @@
       
             }
      a      {
-        color:cyan;
+        color:rgb(18, 204, 204);
             } 
 
     h1      {
@@ -22,4 +22,7 @@
         font-size: 50px; 
         font-family: monospace;
             }
-   
+    ul      {
+        font-size: 50px; 
+        font-family: monospace;
+            }
