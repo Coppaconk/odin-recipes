@@ -1,18 +1,24 @@
-<style>  
+
     
     *       { 
-          background-color:black;
-          text-align:center; }
+        background-color:rgb(0, 0, 0);
+        text-align:center; }
           
     img     {
-          display: block;
-          margin-left: auto;
-          margin-right: auto;
-          width: 50%;
-          height:auto;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        height:auto;
+      
             }
-     a {
-           color:cyan;
+     a      {
+        color:cyan;
             } 
-    
-    </style>
+
+    h1      {
+        color:rgb(18, 204, 204); 
+        font-size: 50px; 
+        font-family: monospace;
+            }
+   
