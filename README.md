@@ -4,6 +4,3 @@
 
 I learned to add images, links to images and links to other pages in same directory. I learned various VSC shortcuts to increase efficiency and spent a good amount of time in the command line navigating around and updating projects with git. Well Done!
 
-ive managed to get it work on my phone
-
-does this automatically change in working copy?
