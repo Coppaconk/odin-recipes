@@ -25,6 +25,7 @@
         font-family: monospace;
             }
     ul      {
+        color:rgb(18, 204, 204); 
         font-size: 50px; 
         font-family: monospace;
             }
@@ -33,3 +34,14 @@
         font-size: 50px; 
         font-family: monospace;
             }
+    h3      {
+        color:rgb(18, 204, 204); 
+        font-size: 50px; 
+        font-family: monospace;
+            }
+    ol      {
+            color:rgb(18, 204, 204); 
+        font-size: 50px; 
+        font-family: monospace;
+            }
+         
