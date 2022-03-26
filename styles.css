@@ -39,9 +39,12 @@
         font-size: 50px; 
         font-family: monospace;
             }
-    ol      {
-            color:rgb(18, 204, 204); 
+    ol li      {
+        color:rgb(18, 204, 204); 
         font-size: 50px; 
         font-family: monospace;
+        list-style: decimal;
+        list-style-position: inside;
             }
+            
          
