@@ -2,7 +2,8 @@
     
     *       { 
         background-color:rgb(0, 0, 0);
-        text-align:center; }
+        text-align:center; 
+        border: g2px solid red;}
           
     img     {
         display: block;
@@ -28,6 +29,7 @@
         color:rgb(18, 204, 204); 
         font-size: 50px; 
         font-family: monospace;
+        margin:;
             }
     p      {
         color:rgb(18, 204, 204); 
@@ -39,7 +41,7 @@
         font-size: 50px; 
         font-family: monospace;
             }
-    ol li      {
+    ol li   {
         color:rgb(18, 204, 204); 
         font-size: 50px; 
         font-family: monospace;
